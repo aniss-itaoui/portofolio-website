@@ -1,1 +1,1 @@
-This is an HTML, CSS and VANILLA JS customizable portoflio.
+This is an HTML, SCSS and VANILLA JS customizable portoflio.
